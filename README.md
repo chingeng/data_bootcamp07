@@ -11,3 +11,5 @@ All my data projects in the bootcamp. There are 10 sprints as follows
 - Introduction to Python
 - Essential Python for Data Science
 - Looker Studio
+
+Verified Badge: https://badgr.com/public/assertions/jOerXAqyTpu3lAF_-By8Pw?identity__email=pakkamas.pn@gmail.com
