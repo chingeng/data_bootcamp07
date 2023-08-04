@@ -1,5 +1,5 @@
 # Data Science Bootcamp 07
-All my data projects in the bootcamp. There are 10 sprints as follows
+This is all my Bootcamp project that I've learned so far. There are 10 sprints as follows
 
 - Google Sheets
 - SQL
